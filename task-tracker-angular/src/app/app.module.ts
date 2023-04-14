@@ -6,7 +6,7 @@ import { AppComponent } from './app.component';
 import { HeaderComponent } from './components/header/header.component';
 import { ButtonComponent } from './components/button/button.component';
 import { TasksComponent } from './components/tasks/tasks.component';
-import { TaksItemComponent } from './components/tasks-item/taks-item.component';
+import { TaksItemComponent } from './components/tasks-item/tasks-item.component';
 
 @NgModule({
   declarations: [
